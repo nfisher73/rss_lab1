@@ -1,0 +1,17 @@
+commit 0f94673d00d5268f239a80b47ad38284c3a8400e
+Author: Noah Fisher <nfisher7@mit.edu>
+Date:   Mon Feb 7 15:38:01 2022 -0500
+
+    Added Intro Stuff
+
+commit 1352db6a4ac9169249c73c8ea9cc8c88da5a8429
+Author: Noah Fisher <toah@Noahs-MacBook-Pro.local>
+Date:   Mon Feb 7 12:47:31 2022 -0500
+
+    linux stuff
+
+commit 966101af7514e28eadea795cf8041dab60cd25e3
+Author: nfisher73 <59576933+nfisher73@users.noreply.github.com>
+Date:   Mon Feb 7 12:44:40 2022 -0500
+
+    Initial commit
