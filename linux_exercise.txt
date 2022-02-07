@@ -1,0 +1,64 @@
+<====Navigation====>
+#####1a#######
+cd ~
+#####End of Question#######
+
+#####1b#######
+cd /
+#####End of Question#######
+
+#####1c#######
+cd ..
+#####End of Question#######
+
+#####1d#######
+ls -la ~
+#####End of Question#######
+
+#####1e#######
+pwd
+#####End of Question#######
+
+
+<====Managing and Using programs====>
+#####2a#######
+sudo apt install inxi
+#####End of Question#######
+
+#####2b#######
+man inxi
+#####End of Question#######
+
+#####2c#######
+inxi -A
+#####End of Question#######
+
+#####2d#######
+sudo apt remove inxi
+#####End of Question#######
+
+#####2e#######
+sudo apt update
+#####End of Question#######
+
+#####2f#######
+sudo apt upgrade
+#####End of Question#######
+
+
+<====ssh====>
+#####3a#######
+ssh nfisher7@athena.dialup.mit.edu
+#####End of Question#######
+
+#####3b#######
+wget https://tinyurl.com/ya67uga4: mv ya67uga4 pic.png
+#####End of Question#######
+
+#####3c#######
+exit
+#####End of Question#######
+
+#####3d#######
+scp nfisher7@athena.dialup.mit.edu:pic.png ~/Pictures
+#####End of Question#######
